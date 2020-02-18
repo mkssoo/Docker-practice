@@ -7,7 +7,7 @@ $ git clone https://github.com/mkssoo/Docker-practice.git
 $ cd 20200217/
 ```
 
-## The docker images build
+## The docker image build
 
 ```
 $ docker image build -t example/echo:latest .
